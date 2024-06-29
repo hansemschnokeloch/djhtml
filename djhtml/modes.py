@@ -194,6 +194,7 @@ class DjTXT(BaseMode):
     ]
     CLOSING_AND_OPENING_TAGS = [
         "elif",
+        "elseif",
         "else",
         "empty",
         "plural",
